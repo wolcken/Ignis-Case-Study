@@ -15,6 +15,8 @@ IGNIS is a web and mobile platform designed to support wildfire monitoring and t
 
 The system combines satellite fire detections, geographic information, weather observations, vegetation indicators and predictive models to transform heterogeneous data into information that can be explored through maps, dashboards and risk analysis tools.
 
+![IGNIS Dashboard](assets/dashboard.png)
+
 The platform covers the complete technical workflow:
 
 - Data ingestion
@@ -391,29 +393,63 @@ The frontend must transform technical information into maps, indicators and dash
 
 > Selected screenshots will be added while ensuring that no personal, administrative or sensitive information is exposed.
 
-### Monitoring Map
+## Platform Screenshots
 
-<!--
-![Monitoring Map](assets/map.png)
--->
+The following screenshots show selected parts of the platform while avoiding personal, administrative and sensitive production information.
 
-### Dashboard
+### Platform Overview
 
-<!--
-![Dashboard](assets/dashboard.png)
--->
+![IGNIS Platform](assets/home.png)
 
-### Risk Prediction
+The platform provides access to wildfire monitoring, territorial analysis and risk-related information through web-based visualization tools.
 
-<!--
-![Risk Prediction](assets/prediction.png)
--->
+---
 
-### Mobile Application
+### Monitoring Dashboard
 
-<!--
-![Mobile Application](assets/mobile.png)
--->
+![IGNIS Dashboard](assets/dashboard.png)
+
+The dashboard summarizes relevant monitoring information and provides a high-level view of current activity and territorial indicators.
+
+---
+
+### Hotspot Monitoring
+
+![Wildfire Hotspots](assets/hotspots.png)
+
+Satellite detections are represented geographically so that users can explore fire activity and its relationship with the territory.
+
+---
+
+### Territorial Filtering
+
+![Departmental Filter](assets/departmental-filter.png)
+
+Geographic filters allow the information to be analyzed by administrative areas, making national-scale data easier to explore.
+
+---
+
+### Risk Detection
+
+![Risk Detection](assets/risk-detection.png)
+
+Environmental, historical and spatial information is combined to support territorial fire-risk analysis.
+
+---
+
+### Risk & Hotspot Predictions
+
+![Risk Hotspot Predictions](assets/risk-hotspot-predictions.png)
+
+Predictive results can be represented geographically, allowing estimated risk levels to be compared with territorial information and detected activity.
+
+---
+
+### Incident Detail
+
+![Incident Detail](assets/incident-detail.png)
+
+The platform also supports operational workflows around detected or reported incidents, providing contextual information for analysis and follow-up.
 
 ---
 
