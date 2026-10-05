@@ -1,3 +1,16 @@
+## Contents
+
+- [Overview](#overview)
+- [The Problem](#the-problem)
+- [My Role](#my-role)
+- [Technology Stack](#technology-stack)
+- [Architecture](#high-level-architecture)
+- [Data Pipeline](#data-pipeline)
+- [Engineering Decisions](#engineering-decisions)
+- [Technical Challenges](#technical-challenges)
+- [Platform Screenshots](#platform-screenshots)
+- [Key Takeaways](#key-takeaways)
+
 # IGNIS — Wildfire Monitoring & Risk Analysis Platform
 
 Technical case study of a geospatial platform designed for wildfire monitoring, territorial analysis and fire-risk prediction in Bolivia.
