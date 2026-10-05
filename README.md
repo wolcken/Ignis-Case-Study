@@ -1,3 +1,14 @@
+# IGNIS — Wildfire Monitoring & Risk Analysis Platform
+
+Technical case study of a geospatial platform designed for wildfire monitoring, territorial analysis and fire-risk prediction in Bolivia.
+
+> **Source code notice**
+>
+> This repository contains technical documentation, architecture and selected visual material only.
+> The production source code is private and is not included in this repository.
+
+---
+
 ## Contents
 
 - [Overview](#overview)
@@ -10,17 +21,6 @@
 - [Technical Challenges](#technical-challenges)
 - [Platform Screenshots](#platform-screenshots)
 - [Key Takeaways](#key-takeaways)
-
-# IGNIS — Wildfire Monitoring & Risk Analysis Platform
-
-Technical case study of a geospatial platform designed for wildfire monitoring, territorial analysis and fire-risk prediction in Bolivia.
-
-> **Source code notice**
->
-> This repository contains technical documentation, architecture and selected visual material only.
-> The production source code is private and is not included in this repository.
-
----
 
 ## Overview
 
